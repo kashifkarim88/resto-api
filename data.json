@@ -1,0 +1,54 @@
+{
+  "resturants": [
+    {
+      "name": "Mr. Code",
+      "description": "Mr. Code's Restaurant: A gastronomic haven where technology meets culinary artistry, offering delectable dishes infused with creativity and innovation.",
+      "location": "Hayat Abad Phase 6, Peshawar.",
+      "contact": "0331-8889878",
+      "rating": "4.5",
+      "id": 1
+    },
+    {
+      "name": "Mac Donalds",
+      "location": "Army Stadium Cannt, Peshawar ",
+      "rating": "4",
+      "contact": "0311-9052570",
+      "description": "Mac Donald is a global fast-food chain known for its iconic golden arches, burgers, fries, and diverse menu offerings.",
+      "id": 2
+    },
+    {
+      "name": "Cheezious",
+      "description": "Cheezious Pizza offers a delicious array of cheesy, mouthwatering pizzas with a variety of toppings, perfect for satisfying your pizza cravings.",
+      "location": "HBK mall Ring Road, Peshawar",
+      "contact": "0346-8889878",
+      "rating": "5",
+      "id": 3
+    },
+    {
+      "name": "KFC",
+      "location": "Abdara road, Peshawar",
+      "rating": "3.5",
+      "contact": "0333-8897467",
+      "description": "KFC, or Kentucky Fried Chicken, is a renowned fast-food chain famous for its crispy fried chicken and an assortment of flavorful sides.",
+      "id": 4
+    },
+    {
+      "name": "Hakeem Khan",
+      "location": "Ring Road Hazar khwani peshawar",
+      "description": "A hub for delicious and juicy meat",
+      "contact": "0312-8467256",
+      "rating": "5",
+      "id": 5
+    }
+  ],
+  "Users": [
+    {
+      "name": "Kashif Karim",
+      "email": "kashifkarimkhan88@gmail.com",
+      "password": "kash123",
+      "contact": "0331-8897467",
+      "city": "Peshawar",
+      "id": 1
+    }
+  ]
+}
